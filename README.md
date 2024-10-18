@@ -2,7 +2,8 @@
 👋 Hello World! I'm Ayesha Tehreem<br><br>
 💻 **Full Stack Web Developer** with a passion for creating dynamic and scalable web applications using the **MERN stack** (MongoDB, Express.js, React, Node.js). I enjoy transforming complex problems into simple, intuitive designs and love working on **responsive** and **user-friendly** applications.<br><br>
 🌟 What I Do:<br>- Build full-stack applications using **React** on the frontend and **Node.js** with **MongoDB** on the backend.<br>- Develop RESTful APIs and ensure **scalable architectures**.<br>- Craft beautiful, functional websites using **HTML**, **CSS**, **JavaScript**, **Tailwind CSS**, and **Bootstrap**.<br><br>
- 🚀 My Skills:<br>- **Frontend**: React.js, Tailwind CSS, Bootstrap<br>- **Backend**: Node.js, Express.js<br>- **Database**: MongoDB<br>- **Version Control**: Git & GitHub<br>- **Other Tools**: WebSocket, REST APIs<br><br>## 🔧 Currently working on:<br>Enhancing my skills in **full-stack development**, experimenting with **real-time applications**, and diving deeper into **blockchain** technologies.<br><br>
+ 🚀 My Skills:<br>- **Frontend**: React.js, Tailwind CSS, Bootstrap<br>- **Backend**: Node.js, Express.js<br>- **Database**: MongoDB<br>- **Version Control**: Git & GitHub<br>- **Other Tools**: WebSocket, REST APIs<br><br>
+ 🔧 Currently working on:<br>Enhancing my skills in **full-stack development**, experimenting with **real-time applications**, and diving deeper into **blockchain** technologies.<br><br>
  📫 Let's connect:<br>- GitHub: [Ayesha Tehreem](https://github.com/AyeshaTehreem)<br>- LinkedIn: [Ayesha Tehreem](https://www.linkedin.com/in/ayesha-tehreem-b38450271/)<br><br>✨ **Fun Fact**: When I’m not coding, I love exploring new technologies, reading about the latest web trends, or enjoying a good coffee ☕!<br>
 
 <div align="center">
